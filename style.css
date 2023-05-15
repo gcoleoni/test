@@ -1,0 +1,11 @@
+body {
+  background: pink;
+  height: 100vh;
+  position: relative;
+  width: 100%;
+}
+
+canvas[resize] {
+  width: 100%;
+  height: 100%;
+}
